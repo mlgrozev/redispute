@@ -4,7 +4,7 @@ Merchant-facing admin dashboard built with Remix, Shopify Polaris, and deployed 
 
 ## Overview
 
-This is the main interface for merchants using PreventFlow. It provides:
+This is the main interface for merchants using ReDispute. It provides:
 - Real-time dispute rate monitoring
 - Payment hold risk alerts
 - Dispute management (pending, active, resolved)
@@ -39,7 +39,7 @@ This is the main interface for merchants using PreventFlow. It provides:
    ```
 
 2. **Create Shopify app** in Partner Dashboard:
-   - App name: PreventFlow (Dev)
+   - App name: ReDispute (Dev)
    - App URL: http://localhost:3000
    - Allowed redirection URL(s):
      - http://localhost:3000/auth/callback

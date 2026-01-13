@@ -1,4 +1,4 @@
-# PreventFlow - Quick Start Guide
+# ReDispute - Quick Start Guide
 ## Get Your Shopify App Running in 10 Minutes
 
 **Status**: ✅ Infrastructure Deployed & Ready
@@ -42,7 +42,7 @@ All should return successful responses ✅
 1. Go to **https://partners.shopify.com/**
 2. Click **Apps** → **Create app** → **Create app manually**
 3. Fill in:
-   - **App name**: `PreventFlow`
+   - **App name**: `ReDispute`
    - **App URL**: `https://7b5d60d0.redispute-admin.pages.dev`
 4. Click **Create app**
 
@@ -155,7 +155,7 @@ Replace `YOUR-STORE` with your development store name.
 You should see:
 
 1. **Shopify Permission Screen** showing:
-   - App name: PreventFlow
+   - App name: ReDispute
    - Requested permissions list
    - Your partner organization
 
@@ -167,7 +167,7 @@ You should see:
    ```
 
 4. **You should see:**
-   - ✅ PreventFlow Dashboard
+   - ✅ ReDispute Dashboard
    - ✅ Your store name displayed
    - ✅ Dispute rate: 0.00%
    - ✅ Welcome message

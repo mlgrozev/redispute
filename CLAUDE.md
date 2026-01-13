@@ -28,7 +28,7 @@
 This repository is the **redispute** project workspace, which includes a collection of **38 specialized AI agents** stored in the `.claude/` subdirectory. Each agent is an expert in their domain, designed to work within a fast-paced studio environment that ships products in 6-day sprint cycles.
 
 ### Key Facts
-- **Project**: redispute (PreventFlow/Disputifier)
+- **Project**: redispute (ReDispute/Disputifier)
 - **Repository Path**: `/Users/mladen.grozev/Code/redispute/`
 - **Total Agents**: 38 (across 8 departments)
 - **Agent Location**: `.claude/agents/` subdirectory within the repository
@@ -61,7 +61,7 @@ This repository is the **redispute** project workspace, which includes a collect
 - `prd`: Generate Product Requirements Documents
 - `prd-to-jira`: Convert PRDs to Jira user stories
 
-**Knowledge Base**: The `knowledge/` directory contains project-specific research and strategy documents for PreventFlow and Disputifier.
+**Knowledge Base**: The `knowledge/` directory contains project-specific research and strategy documents for ReDispute and Disputifier.
 
 ---
 
@@ -81,7 +81,7 @@ This repository is the **redispute** project workspace, which includes a collect
 │   │   └── testing/            # 5 agents: performance, API testing, benchmarking
 │   └── skills/                 # Custom skills (prd, prd-to-jira)
 ├── knowledge/                  # Project knowledge base
-│   └── init-research/          # Initial research docs (PreventFlow, Disputifier)
+│   └── init-research/          # Initial research docs (ReDispute, Disputifier)
 ├── README.md                   # User-facing documentation
 ├── .gitignore                  # Standard git exclusions
 └── CLAUDE.md                   # This file - AI assistant guide
@@ -1133,13 +1133,13 @@ yq eval '.' .claude/agents/engineering/rapid-prototyper.md
 - **Agent Files**: 38 specialized agents in `.claude/agents/` directories
 - **Skills**: Custom skills in `.claude/skills/` (prd, prd-to-jira)
 - **Knowledge Base**: Project research and strategy in `knowledge/init-research/`
-  - PreventFlow MVP planning and Cloudflare Workers implementation
+  - ReDispute MVP planning and Cloudflare Workers implementation
   - Disputifier market research and disruption strategy
   - Shopify payment protection strategy documents
 - **.gitignore**: Standard exclusions for Claude Code projects
 
 ### Project-Specific Resources
-- **PreventFlow**: Shopify payment protection and dispute prevention system
+- **ReDispute**: Shopify payment protection and dispute prevention system
 - **Disputifier**: Market disruptor analysis and competitive strategy
 - **Tech Stack**: Cloudflare Workers, Shopify API integration planned
 
@@ -1163,7 +1163,7 @@ yq eval '.' .claude/agents/engineering/rapid-prototyper.md
 - **Clarified agent deployment**: All 38 agents now in `.claude/agents/` subdirectory (including bonus agents), loaded automatically
 - **Added usage instructions**: How agents work in this specific repository setup
 - **Updated file structure**: Reflected actual repository layout with `.claude/agents/` (including bonus), `.claude/skills/`, and `knowledge/` directories
-- **Added project context**: Documented PreventFlow and Disputifier project information
+- **Added project context**: Documented ReDispute and Disputifier project information
 - **Updated commands**: Changed all example commands to use correct paths
 - **Consolidated bonus agents**: Moved bonus agents to `.claude/agents/bonus/` with all other agents
 

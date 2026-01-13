@@ -102,7 +102,7 @@ Before setting secrets, you need Shopify API credentials:
 1. Go to [Shopify Partners](https://partners.shopify.com/)
 2. Click **Apps** → **Create app** → **Create app manually**
 3. Fill in app details:
-   - **App name**: PreventFlow (Dev)
+   - **App name**: ReDispute (Dev)
    - **App URL**: `https://redispute-admin.pages.dev` (temporary, will update after deployment)
    - **Allowed redirection URL(s)**:
      ```

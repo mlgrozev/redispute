@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "0d40322bb35e12d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "398f9b8440a8a519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3adb43731eed8704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/MVP-Implementation-Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVP-Implementation-Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16990e4965e48ffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22ae6bf33542f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce74b2ce1a9006e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "828b12202e0de6df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0a2cdd79221158b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 492.5
+  },
+  "right": {
+    "id": "488697d099c706da",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ded4527472a8de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3d3ffe28887e54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "knowledge/MVP-Implementation-Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MVP-Implementation-Plan"
+            }
+          },
+          {
+            "id": "a20ce4927be9bce5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "knowledge/MVP-Implementation-Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MVP-Implementation-Plan"
+            }
+          },
+          {
+            "id": "d110991a84cb4c9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9279e222227ceacb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "282374070dc7aa05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "knowledge/MVP-Implementation-Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MVP-Implementation-Plan"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "3adb43731eed8704",
+  "lastOpenFiles": [
+    "apps/admin/build/server/index.js",
+    "apps/admin/build/server/assets",
+    "apps/admin/build/server",
+    "apps/admin/build/client/assets/manifest-605d2c36.js",
+    "apps/admin/build/client/assets/context-Dt8P2_c4.js",
+    "apps/admin/build/client/assets/root-Cq3khrHP.js",
+    "apps/admin/build/client/assets/root-BeiPL2RV.css",
+    "apps/admin/build/client/assets/components-DQT9eZbo.js",
+    "apps/admin/build/client/assets/entry.client-BSD_AE55.js",
+    "apps/admin/build/client/assets/auth.callback-l0sNRNKZ.js",
+    "apps/admin/build/client/assets/auth-l0sNRNKZ.js",
+    "DAY-1-COMPLETE.md",
+    "QUICK-START.md",
+    "SHOPIFY-SETUP.md",
+    "README.md",
+    "README-OLD.md",
+    "DEPLOYMENT.md",
+    "apps/admin/README.md",
+    "packages/database/README.md",
+    "knowledge/PreventFlow-MVP-Sprint.md",
+    "knowledge/MVP-Implementation-Plan.md",
+    "knowledge/init-research/2026-preventflow-strategy-REVISED.md",
+    "knowledge/init-research/2026-shopify-payment-protection-strategy.md",
+    "CLAUDE.md",
+    "knowledge/init-research/disputirfier-screenshots/screencapture-app-disputifier-web-app-analytics-2026-01-13-09_56_40.png",
+    "knowledge/init-research/preventflow-mvp-cloudflare-shopify.md",
+    "knowledge/init-research/disputifier-market-research.md"
+  ]
+}

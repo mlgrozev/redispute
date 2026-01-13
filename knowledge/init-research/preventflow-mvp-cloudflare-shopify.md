@@ -1,4 +1,4 @@
-# PreventFlow MVP Plan: Cloudflare Workers + Shopify App
+# ReDispute MVP Plan: Cloudflare Workers + Shopify App
 ## "Built for Shopify" Badge Compliance
 
 **Plan Date**: 2026-01-13
@@ -11,7 +11,7 @@
 ## 📋 EXECUTIVE SUMMARY
 
 ### The Vision
-Build PreventFlow as a **prevention-first chargeback management platform** using Cloudflare Workers for edge computing performance and Shopify App infrastructure for seamless merchant integration. This architecture ensures sub-100ms response times globally while meeting all "Built for Shopify" badge requirements.
+Build ReDispute as a **prevention-first chargeback management platform** using Cloudflare Workers for edge computing performance and Shopify App infrastructure for seamless merchant integration. This architecture ensures sub-100ms response times globally while meeting all "Built for Shopify" badge requirements.
 
 ### Why Cloudflare Workers?
 - **Edge Performance**: <50ms latency globally (critical for "Built for Shopify" performance requirements)

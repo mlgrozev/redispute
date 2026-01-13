@@ -1,4 +1,4 @@
-# PreventFlow MVP Implementation Plan
+# ReDispute MVP Implementation Plan
 ## Complete Development Roadmap for redispute.com
 
 **Created**: 2026-01-13
@@ -25,7 +25,7 @@
 
 ### What We're Building
 
-**PreventFlow** - A prevention-first chargeback management platform for Shopify merchants that:
+**ReDispute** - A prevention-first chargeback management platform for Shopify merchants that:
 
 1. **Prevents Payment Holds** - Keep dispute rates below 0.5% threshold
 2. **Prevents Chargebacks** - 40-60% reduction through automated customer intervention

@@ -69,7 +69,7 @@
 
 ---
 
-## 💡 DISRUPTION STRATEGY: "PreventFlow"
+## 💡 DISRUPTION STRATEGY: "ReDispute"
 
 ### Core Positioning
 **"The only chargeback platform that prevents before it protects"**
@@ -213,7 +213,7 @@ Build a customer-facing app/widget that reduces friendly fraud before it happens
 
 ### Compared to Disputifier:
 
-| Feature | Disputifier | PreventFlow | Advantage |
+| Feature | Disputifier | ReDispute | Advantage |
 |---------|------------|-------------|-----------|
 | **Primary Approach** | Reactive (fight) | Proactive (prevent) | ✅ 40-60% fewer chargebacks filed |
 | **AI Type** | Templates | True adaptive ML | ✅ Better win rates, lower false positives |

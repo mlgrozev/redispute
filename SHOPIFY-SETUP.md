@@ -1,5 +1,5 @@
 # Shopify Partner App Setup Guide
-## PreventFlow - Chargeback Prevention Platform
+## ReDispute - Chargeback Prevention Platform
 
 **Created**: 2026-01-13
 **Status**: Ready for Registration
@@ -44,7 +44,7 @@ https://redispute-api.melioraweb-com-account.workers.dev/webhooks/shopify
 
 **App Name:**
 ```
-PreventFlow
+ReDispute
 ```
 
 **App URL:**
@@ -184,7 +184,7 @@ https://9066ffc8.redispute-admin.pages.dev/auth?shop=preventflow-dev.myshopify.c
 After clicking install, you should see:
 
 1. **Shopify Permission Screen**
-   - Shows your app name "PreventFlow"
+   - Shows your app name "ReDispute"
    - Lists requested permissions
    - Shows your Partner organization
 
@@ -192,7 +192,7 @@ After clicking install, you should see:
 
 3. **Redirect to Dashboard**
    - You should be redirected to: `https://9066ffc8.redispute-admin.pages.dev`
-   - Should see the PreventFlow dashboard
+   - Should see the ReDispute dashboard
    - Should see "Connected to: your-store.myshopify.com"
 
 ---

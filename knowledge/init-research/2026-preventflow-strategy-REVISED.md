@@ -1,4 +1,4 @@
-# PreventFlow Strategy 2026 - REVISED WITH DISPUTIFIER INTELLIGENCE
+# ReDispute Strategy 2026 - REVISED WITH DISPUTIFIER INTELLIGENCE
 ## The $50M ARR Opportunity: Payment Hold Prevention Meets Chargeback Management
 
 **Strategy Date**: 2026-01-13 (REVISED)
@@ -125,7 +125,7 @@ Merchants are paying **$850-1,200/month on average**, not the $149-399 I initial
 | **Chargeflow** | $15-25M | #2 player | Enterprise-focused, complex | SMB-friendly, transparent |
 | **Chargebacks911** | $20-30M | Enterprise | Managed service, slow | Self-service, fast |
 | **Midigator** | $10-15M | Tech-forward | Complex setup | Quick setup, Shopify-native |
-| **PreventFlow** | $0 (launch) | New entrant | No brand yet | **Prevention > Resolution** |
+| **ReDispute** | $0 (launch) | New entrant | No brand yet | **Prevention > Resolution** |
 
 **Total Market**: ~$100M+ with established players
 **Growth Rate**: 17.6% = $17.6M+ new revenue annually
@@ -1079,7 +1079,7 @@ Post in e-commerce communities with thought leadership.
 - 6 months: 10-20% cumulative (360-700 merchants, $3.6M-7M ARR loss)
 - 12 months: 20-30% total if not recovered (720-1,050 merchants, $7.2M-10.5M ARR loss)
 
-**The Opportunity for PreventFlow**:
+**The Opportunity for ReDispute**:
 - **Immediate** (3 months): Capture 5% = $1.8M ARR
 - **Short-term** (6 months): Capture 10% = $3.6M ARR
 - **Medium-term** (12 months): Capture 15-20% = $5.4M-7.2M ARR

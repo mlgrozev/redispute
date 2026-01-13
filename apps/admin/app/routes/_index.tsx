@@ -84,7 +84,7 @@ export default function Index() {
   };
 
   return (
-    <Page title="PreventFlow Dashboard">
+    <Page title="ReDispute Dashboard">
       <Layout>
         <Layout.Section>
           <BlockStack gap="500">
@@ -194,7 +194,7 @@ export default function Index() {
             <Card>
               <BlockStack gap="400">
                 <Text as="h2" variant="headingMd">
-                  Welcome to PreventFlow! 🎉
+                  Welcome to ReDispute! 🎉
                 </Text>
                 <Text as="p" variant="bodyMd">
                   Your payment hold prevention platform is ready. We'll monitor your dispute

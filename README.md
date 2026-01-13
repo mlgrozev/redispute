@@ -1,4 +1,4 @@
-# Redispute (PreventFlow MVP)
+# ReDispute MVP
 
 **Payment Hold Prevention & Chargeback Management Platform for Shopify**
 
@@ -70,7 +70,7 @@ redispute/
 │   └── deploy.sh              # Deploy everything
 ├── knowledge/
 │   ├── MVP-Implementation-Plan.md      # 20K word implementation guide
-│   └── PreventFlow-MVP-Sprint.md       # Obsidian Kanban (217 tasks)
+│   └── ReDispute-MVP-Sprint.md       # Obsidian Kanban (217 tasks)
 ├── DEPLOYMENT.md          # Complete deployment guide
 ├── package.json           # Root monorepo config
 ├── pnpm-workspace.yaml    # PNPM workspace definition
@@ -219,7 +219,7 @@ See [packages/database/schema.sql](./packages/database/schema.sql) for full sche
 
 - **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Complete deployment guide ⭐
 - [MVP-Implementation-Plan.md](./knowledge/MVP-Implementation-Plan.md) - Detailed implementation plan (20K words)
-- [PreventFlow-MVP-Sprint.md](./knowledge/PreventFlow-MVP-Sprint.md) - Kanban board (217 tasks)
+- [ReDispute-MVP-Sprint.md](./knowledge/ReDispute-MVP-Sprint.md) - Kanban board (217 tasks)
 - [packages/database/README.md](./packages/database/README.md) - Database documentation
 - [apps/admin/README.md](./apps/admin/README.md) - Admin app documentation
 
@@ -237,4 +237,4 @@ Proprietary - All rights reserved
 
 ---
 
-*PreventFlow - Keep your dispute rate under 0.5%. Never get held.*
+*ReDispute - Keep your dispute rate under 0.5%. Never get held.*

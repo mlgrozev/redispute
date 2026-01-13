@@ -1,5 +1,5 @@
 # 2026 Shopify Payment Protection Platform Strategy
-## PreventFlow: The Payment Hold Prevention & Dispute Management Solution
+## ReDispute: The Payment Hold Prevention & Dispute Management Solution
 
 **Strategy Date**: 2026-01-13
 **Market**: Shopify/Stripe Payment Protection & Chargeback Prevention
@@ -137,7 +137,7 @@ While researching chargeback management, we uncovered a **MORE URGENT problem**:
 ### Layer 2: Chargeback Management System (SECONDARY VALUE)
 **Positioning**: "Win more disputes, spend less time"
 
-#### Features (Mostly from Original PreventFlow Plan):
+#### Features (Mostly from Original ReDispute Plan):
 1. **Customer-Facing Dispute Portal**
    - App Embed on Shopify storefront
    - "Resolve Order Issue" widget
@@ -383,7 +383,7 @@ While researching chargeback management, we uncovered a **MORE URGENT problem**:
 
 ### Competitive Differentiation
 
-| Feature | Disputifier | Chargeflow | PreventFlow |
+| Feature | Disputifier | Chargeflow | ReDispute |
 |---------|-------------|------------|-------------|
 | **Primary Focus** | Fight chargebacks | Automate disputes | **Prevent payment holds** |
 | **Approach** | Reactive (after dispute) | Reactive | **Proactive (before dispute)** |
@@ -468,7 +468,7 @@ Own the unsolved pain point.
 **Launch Strategy**:
 
 1. **App Store Optimization**
-   - Title: "PreventFlow - Payment Hold Prevention"
+   - Title: "ReDispute - Payment Hold Prevention"
    - Subtitle: "Keep your dispute rate under 0.5%. Never get held."
    - Keywords: payment hold, dispute rate, chargeback, Klarna, Stripe
    - Screenshots showcasing risk dashboard
@@ -1198,7 +1198,7 @@ Qualitative:
 
 ## 📞 CONCLUSION
 
-PreventFlow has the potential to become the **default payment protection layer** for Shopify merchants by solving their most urgent fear: payment holds and account suspensions.
+ReDispute has the potential to become the **default payment protection layer** for Shopify merchants by solving their most urgent fear: payment holds and account suspensions.
 
 By combining:
 1. **Urgent problem** (payment holds)
