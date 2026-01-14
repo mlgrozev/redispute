@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/MVP-Implementation-Plan.md",
+                "file": "DAY-1-COMPLETE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVP-Implementation-Plan"
+              "title": "DAY-1-COMPLETE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/MVP-Implementation-Plan.md",
+                "file": "DAY-1-COMPLETE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MVP-Implementation-Plan"
+              "title": "Backlinks for DAY-1-COMPLETE"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/MVP-Implementation-Plan.md",
+                "file": "DAY-1-COMPLETE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MVP-Implementation-Plan"
+              "title": "Outgoing links from DAY-1-COMPLETE"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/MVP-Implementation-Plan.md",
+                "file": "DAY-1-COMPLETE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MVP-Implementation-Plan"
+              "title": "Outline of DAY-1-COMPLETE"
             }
           }
         ],
@@ -187,6 +187,12 @@
   },
   "active": "3adb43731eed8704",
   "lastOpenFiles": [
+    "MVP-ROADMAP.md",
+    "DEPLOYMENT.md",
+    "DAY-1-COMPLETE.md",
+    "knowledge/MVP-Implementation-Plan.md",
+    "MARKETING-COPY.md",
+    "LOVABLE-PROMPT.md",
     "apps/admin/build/server/index.js",
     "apps/admin/build/server/assets",
     "apps/admin/build/server",
@@ -197,17 +203,13 @@
     "apps/admin/build/client/assets/components-DQT9eZbo.js",
     "apps/admin/build/client/assets/entry.client-BSD_AE55.js",
     "apps/admin/build/client/assets/auth.callback-l0sNRNKZ.js",
-    "apps/admin/build/client/assets/auth-l0sNRNKZ.js",
-    "DAY-1-COMPLETE.md",
     "QUICK-START.md",
     "SHOPIFY-SETUP.md",
     "README.md",
     "README-OLD.md",
-    "DEPLOYMENT.md",
     "apps/admin/README.md",
     "packages/database/README.md",
     "knowledge/PreventFlow-MVP-Sprint.md",
-    "knowledge/MVP-Implementation-Plan.md",
     "knowledge/init-research/2026-preventflow-strategy-REVISED.md",
     "knowledge/init-research/2026-shopify-payment-protection-strategy.md",
     "CLAUDE.md",
